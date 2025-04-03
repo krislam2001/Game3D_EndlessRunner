@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\assets\\scripts\\collisiondetect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collisiondetect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\assets\\scripts\\segmentgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\segmentgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\assets\\scripts\\segmentmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\segmentmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\assets\\scripts\\masterinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\masterinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\assets\\scripts\\settingmenucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settingmenucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|f:\\vtc academy\\3d game engine\\final project\\3d endless runner\\assets\\scripts\\audiocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|f:\\vtc academy\\3d game engine\\final project\\3d endless runner\\assets\\scripts\\mainmenucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\assets\\scripts\\collectcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\assets\\scripts\\collectiblerotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1120B18-3B00-F9CC-B876-D5B9F94E7E43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectiblerotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AudioControl.cs",
+              "DocumentMoniker": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\AudioControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioControl.cs",
+              "ToolTip": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\AudioControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:33:36.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingMenuControl.cs",
+              "DocumentMoniker": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\SettingMenuControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingMenuControl.cs",
+              "ToolTip": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\SettingMenuControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingMenuControl.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:16:47.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterInfo.cs",
+              "DocumentMoniker": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\MasterInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MasterInfo.cs",
+              "ToolTip": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\MasterInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MasterInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:20:18.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SegmentMovement.cs",
+              "DocumentMoniker": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\SegmentMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SegmentMovement.cs",
+              "ToolTip": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\SegmentMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SegmentMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:47:56.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollisionDetect.cs",
+              "DocumentMoniker": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\CollisionDetect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollisionDetect.cs",
+              "ToolTip": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\CollisionDetect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollisionDetect.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:34:38.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CollectCoin.cs",
+              "DocumentMoniker": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\CollectCoin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollectCoin.cs",
+              "ToolTip": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\CollectCoin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollectCoin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:04:34.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SegmentGenerator.cs",
+              "DocumentMoniker": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\SegmentGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SegmentGenerator.cs",
+              "ToolTip": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\SegmentGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SegmentGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:25:41.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenuControl.cs",
+              "DocumentMoniker": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\MainMenuControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuControl.cs",
+              "ToolTip": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\MainMenuControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuControl.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:28:56.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:42:43.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CollectibleRotate.cs",
+              "DocumentMoniker": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\CollectibleRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollectibleRotate.cs",
+              "ToolTip": "F:\\VTC Academy\\3D game engine\\FINAL PROJECT\\3D Endless runner\\Assets\\Scripts\\CollectibleRotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollectibleRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:51:24.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
